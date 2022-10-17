@@ -1,7 +1,7 @@
 {
 	"ip":"3mkmHadi.aternos.me",
 	"port": 48114,
-	"name": "BoT",
+	"name": "Hadi's BOT",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
